@@ -1,4 +1,4 @@
-package com.devex.developerexcellence;
+package com.developerexcellence;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
